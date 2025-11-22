@@ -1,2 +1,1 @@
-# viikko-2-lomake
- VIIKKOTEHTÄVÄ 2. Lomake
+![kuva](./docs/Screenshot_1.png)
